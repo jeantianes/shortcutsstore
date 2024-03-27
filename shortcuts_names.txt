@@ -1,3 +1,0 @@
-shortcutsstore
-test2
-bean2
